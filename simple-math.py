@@ -1,3 +1,9 @@
+def add(x,y):
+    return x+y
+
+def multiply(x,y):
+    return x*y
+    
 i = 0
 i = add (i, 3)
 i = multiply(i, 5)
